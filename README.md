@@ -12,16 +12,15 @@ With a background in UI/UX design and front-end development, I focus on user res
  RestEase – A cemetery mapping and management system that helps local government offices with certificate issuance and renewal.
  Product Innovation – Exploring new ways to enhance user interaction and accessibility.
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/AlleonPerez/custom-icon-badges -->
-<!-- View counter - https://github.com/AlleonPerez/Simple-View-Counter -->
+<!-- [![Follow](https://img.shields.io/github/followers/AlleonPerez?style=for-the-badge&color=6CB4EE&labelColor=007FFF&logo=)](https://github.com/AlleonPerez)
+[![Stars](https://img.shields.io/github/stars/AlleonPerez?affiliations=OWNER&style=for-the-badge&&color=90EE90&labelColor=4CBB17&logo=)](https://github.com/AlleonPerez?tab=repositories)-->
 
 <p align="left">
-  <a href="https://github.com/AlleonPerez?tab=followers">
+    <a href="https://github.com/AlleonPerez?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AlleonPerez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/AlleonPerez?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlleonPerez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlleonPerez?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a
+</p>
  
 #
 
