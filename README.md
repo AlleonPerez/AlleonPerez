@@ -1,4 +1,4 @@
-#  Dy sania 
+#  Dy sania <img src="https://i.pinimg.com/originals/d9/63/a3/d963a3be86c3624aac4bc03c8a7d62aa.gif" width="50px" align="left"/> 
 
 
 **`Digital Experience Architect (UI/UX Designer / Front-End Developer / Innovator)`**
@@ -7,7 +7,7 @@
 I am a UI/UX Designer create designs and builds a user-friendly digital experiences that make technology more intuitive and accessible. 
 With a background in UI/UX design and front-end development, I focus on user research, wireframing, and prototyping to create interfaces that not only look great but also work seamlessly.
 
-### Current Projects:
+### Current Projects: 
 
  RestEase – A cemetery mapping and management system that helps local government offices with certificate issuance and renewal.
  Product Innovation – Exploring new ways to enhance user interaction and accessibility.
