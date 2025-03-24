@@ -21,7 +21,7 @@ With a background in UI/UX design and front-end development, I focus on user res
   <a href="https://github.com/AlleonPerez?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlleonPerez?color=55960c&style=for-the-badge&labelColor=488207&logo=star&cache-bust=123"/></a>
  <a href="https://github.com/AlleonPerez">
-    <img alt="Visitor Count" title="Profile Views" src="https://komarev.com/ghpvc/?username=AlleonPerez&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/></a>
+    <img alt="Visitor Count" title="Profile Views" src="https://komarev.com/ghpvc/?username=AlleonPerez&style=for-the-badge&color=1F4563&labelColor=1F4563&label=PROFILE+VIEWS"/>
 </p>
 
 #
