@@ -20,6 +20,8 @@ With a background in UI/UX design and front-end development, I focus on user res
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AlleonPerez?color=98568d&labelColor=6f3096&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cache-bust=123"/></a>
   <a href="https://github.com/AlleonPerez?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AlleonPerez?color=55960c&style=for-the-badge&labelColor=488207&logo=star&cache-bust=123"/></a>
+ <a href="https://github.com/AlleonPerez">
+    <img alt="Visitor Count" title="Profile Views" src="https://komarev.com/ghpvc/?username=AlleonPerez&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/></a>
 </p>
 
 #
